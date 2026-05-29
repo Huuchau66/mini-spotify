@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Huuchau66.github.io/mini-spotify",
+  "homepage": "https://huuchau66.github.io/mini-spotify",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
